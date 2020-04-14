@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Coffee Finder</string>
+    <string name="txtTitle">Coffee Shops</string>
+    <string name="snow">Snowshack Dessert Cafe</string>
+    <string name="ninth">9th Bar Espresso</string>
+    <string name="canes">Canes Cafe</string>
+    <string name="cosmic">Cosmic Donuts</string>
+    <string name="descriptionSnow">Snowshack Logo</string>
+    <string name="descriptionCanes">Canes Logo</string>
+    <string name="descriptionCosmic">Cosmic Logo</string>
+    <string name="descriptionNinth">Ninth Logo</string>
+    <string name="txtSnowAddress">35200 US Hwy 19 N, Palm Harbor, FL 34683</string>
+    <string name="txtCosmicAddress">32130 US Hwy 19 N, Palm Harbor, FL 34684</string>
+    <string name="txtCanesAddress">1688 US-19 ALT, Palm Harbor, FL 34683</string>
+    <string name="txtNinthAddress">949 Huntley Ave, Dunedin, FL 34698</string>
+</resources>
